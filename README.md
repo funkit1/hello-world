@@ -1,2 +1,2 @@
 # hello-world
-The firs feeble attempt one something magnificent
+The first feeble attempt one something magnificent
